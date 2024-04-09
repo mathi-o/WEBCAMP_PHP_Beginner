@@ -1,6 +1,5 @@
 <?php
 $base_string = "Stollen;Panettone;Pandoro;Kouglof;Lussekatter";
-
 echo "元の文字列\n";
 var_dump($base_string);
 

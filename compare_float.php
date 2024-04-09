@@ -22,3 +22,4 @@ echo "\n";
 echo "0.1+0.2 と 0.3 の現実的な比較\n";
 define('FLOAT_PRECISION', 0.000001); // 精度はあちこちで使うことが予想されるので定数にする
 var_dump( abs($f - 0.3) < FLOAT_PRECISION ); //abs : 絶対値
+

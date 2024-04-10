@@ -7,7 +7,7 @@ class Myclass{
 
     public function __construct(){
 
-        echo "コンストラクトが動いた\n";
+        echo "コンストラクトが動いた\n"; 
     }
 
     public function __destruct(){

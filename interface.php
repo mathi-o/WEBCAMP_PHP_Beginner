@@ -1,4 +1,6 @@
 <?php
+
+//interfaceはメゾットの名前と引数のみ指定できる（実装はできない）
 interface インターフェースA{
 
     public function メゾットA();
